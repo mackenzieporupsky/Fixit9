@@ -1,1 +1,0 @@
-let goodFoods = ["pizza","apples","cookies","sushi","pasta","steak"]

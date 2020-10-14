@@ -26,14 +26,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "favFoods",
-            "favFoods.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "dessertVoting",
             "dessertVoting.json"
           ]
@@ -84,7 +76,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "favFoods",
+      "firstform": "dessertVoting",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
