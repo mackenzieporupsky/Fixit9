@@ -14,36 +14,9 @@
       "!type": "External",
       "file": [
         "forms",
-        "dessertVoting",
+        "Login",
         "Elements",
-        "lblPrompt.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dessertVoting",
-        "Elements",
-        "drpDesserts.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dessertVoting",
-        "Elements",
-        "btnNext.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dessertVoting",
-        "Elements",
-        "lblOutput.json"
+        "lblLogin.json"
       ]
     }
   ],
@@ -53,7 +26,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "dessertVoting",
+  "id": "Login",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -61,13 +34,11 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "dessertVoting.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",

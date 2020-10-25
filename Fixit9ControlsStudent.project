@@ -53,6 +53,14 @@
             "mobileNav",
             "mobileNav.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Login",
+            "Login.json"
+          ]
         }
       ],
       "configxml": null,
